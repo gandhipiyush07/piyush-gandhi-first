@@ -1,4 +1,3 @@
-# piyush-gandhi-first
-This is my first Git Repository.
-<br>
-Author - Piyush Gandhi
+let companies = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
+companies.push("Amazon");
+console.log(companies);
